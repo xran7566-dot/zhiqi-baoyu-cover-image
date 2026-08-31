@@ -1,0 +1,4 @@
+interface:
+  display_name: "智企-文章封面"
+  short_description: "为文章生成封面视觉方案"
+  default_prompt: "使用 $zhiqi-baoyu-cover-image 生成文章封面："
